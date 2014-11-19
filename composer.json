@@ -3,9 +3,14 @@
         {
             "type": "vcs",
             "url": "https://github.com/paulodiovani/esperance.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/paulodiovani/dspec.git"
         }
     ],
     "require-dev": {
-        "esperance/esperance": "dev-master"
+        "esperance/esperance": "dev-master",
+        "davedevelopment/dspec": "dev-master"
     }
 }
