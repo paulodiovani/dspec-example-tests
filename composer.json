@@ -1,6 +1,6 @@
 {
     "scripts": {
-        "test": "./vendor/davedevelopment/dspec/bin/dspec"
+        "test": "./vendor/davedevelopment/dspec/bin/dspec --ansi"
     },
     "repositories": [
         {

@@ -15,10 +15,5 @@ Test.
 
     composer test
 
-You may prefer to run `dspec` manually, since through composer it [doesn't display
-colors][10].
-
 [1]: https://github.com/paulodiovani/dspec
 [2]: https://github.com/paulodiovani/esperance
-
-[10]: http://stackoverflow.com/questions/27024298/keep-color-output-when-running-scripts-on-composer
