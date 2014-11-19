@@ -1,0 +1,11 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/paulodiovani/esperance.git"
+        }
+    ],
+    "require-dev": {
+        "esperance/esperance": "dev-master"
+    }
+}
