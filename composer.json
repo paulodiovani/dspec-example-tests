@@ -1,4 +1,7 @@
 {
+    "scripts": {
+        "test": "./vendor/davedevelopment/dspec/bin/dspec"
+    },
     "repositories": [
         {
             "type": "vcs",
